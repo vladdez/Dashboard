@@ -1,0 +1,9 @@
+[deps]
+AlgebraOfGraphics = "cbdf2221-f076-402e-a563-3d30da359d67"
+CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
+Compat = "34da2185-b29b-5c13-b0c7-acf172513d20"
+Effects = "8f03c58b-bd97-4933-a826-f71b64d2cca2"
+PyMNE = "6c5003b2-cbe8-491c-a0d1-70088e6a0fd6"
+ShiftedArrays = "1277b4bf-5013-50f5-be3d-901d8477a67a"
+Unfold = "181c99d8-e21b-4ff3-b70b-c233eddec679"
+UnfoldMakie = "69a5ce3b-64fb-4f22-ae69-36dd4416af2a"
